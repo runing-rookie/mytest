@@ -1,2 +1,5 @@
-aabbb
+aa00bbb
+00
 bbb
+cc0
+ddd
